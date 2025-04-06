@@ -42,7 +42,7 @@ cajero/
 
 1.  **Clonar o Descargar:** Obtén los archivos del proyecto. Si es un repositorio Git, clónalo:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/GaboERV/cajero_sencillo_go.git
     cd cajero
     ```
     Si solo tienes los archivos, asegúrate de que `main.go` y la carpeta `cuenta` (con `cuenta.go` dentro) estén en el mismo directorio raíz del proyecto (`cajero/`).
